@@ -58,6 +58,10 @@ input {
     width: 50rem;
 }
 
+.input_size {
+    width: 70rem;
+}
+
 .button {
     margin-top: 5%;
     text-align: center;
