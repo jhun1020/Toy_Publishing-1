@@ -1,0 +1,27 @@
+* {
+  border: 1px dotted gray;
+}
+
+.HDimg {
+  width: 50px;
+}
+
+aside {
+  width: 10%;
+  float: right;
+}
+
+section {
+  padding: ;
+
+  display: flex;
+}
+.s1 {
+  width: 100px;
+}
+.s2 {
+  width: 500px;
+}
+.s3 {
+  width: 100px;
+}
